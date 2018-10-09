@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "ES5",
+    "outDir": "dist",
+    "module": "commonjs"
+  },
+  "files": [
+    "src/app.ts"
+  ]
+}
